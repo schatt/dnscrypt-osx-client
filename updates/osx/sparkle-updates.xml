@@ -10,12 +10,6 @@
 			<title>Version 0.17</title>
 			<sparkle:releaseNotesLink>http://download.dnscrypt.org/osx/opendns/releasenotes.html</sparkle:releaseNotesLink>
 			<pubDate>Fri, 28 Jan 2012 04:38:42 +0000</pubDate>
-			<enclosure
-url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.17.zip"
-sparkle:version="0.17" length="1799502"
-type="application/octet-stream"
-sparkle:dsaSignature="MC4CFQDHri29QoNnMGyEgOY2YlGWI9/5dQIVALcsF7HTRRqV77n1WZmFJGoHew4t"
-/>
 		</item>
 	</channel>
 </rss>
