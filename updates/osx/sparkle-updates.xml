@@ -7,52 +7,10 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
 		<item>
-			<title>Version 0.2</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Thu, 14 Nov 2011 18:21:42 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.2.zip" sparkle:version="0.2" length="750601" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCdBsLl580RA46x/OfpnlMtP68KBAIVAJpncnjSlAjsrbSdoGcCmDdeCJMP" />
-		</item>
-		<item>
-			<title>Version 0.3</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Thu, 16 Nov 2011 00:00:32 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.3.zip" sparkle:version="0.3" length="756978" type="application/octet-stream" sparkle:dsaSignature="MCwCFDZgtIEc1kczQrLm9SSLrGhxVRduAhQtyQWzwZ+MdMEZtx2OaeWvrgszJw==" />
-		</item>
-		<item>
-			<title>Version 0.4</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Tue, 21 Nov 2011 23:11:32 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.4.zip" sparkle:version="0.4" length="753664" type="application/octet-stream" sparkle:dsaSignature="MC0CFQDkoWjJjF1ljyXJGg17VjMRp+YEXwIUZMdNwgljSv3Sq1wUnHEE0KIQC5o=" />
-		</item>
-		<item>
-			<title>Version 0.5</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Tue, 23 Nov 2011 19:16:59 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.5.zip" sparkle:version="0.5" length="1322579" type="application/octet-stream" sparkle:dsaSignature="MC4CFQDjYpXn1XcC7hDkZ138o7eVM97U5AIVAKlDKnZNC7sQb39JxwVygWWfwpse" />
-		</item>
-		<item>
-			<title>Version 0.6</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Tue, 29 Nov 2011 00:54:55 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.6.zip" sparkle:version="0.6" length="1340270" type="application/octet-stream" sparkle:dsaSignature="MC0CFCokVoWIqKP9XpysYwNxDDSaK8E2AhUAlkVXujFn++9u/V411hYVRBBwazw=" />
-		</item>
-		<item>
-			<title>Version 0.7</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Tue,  6 Dec 2011 01:28:01 +0000</pubDate>
-			<enclosure url="http://testing.dnscrypt.org/private/packages/osx-client/dnscrypt-osx-client-0.7.zip" sparkle:version="0.7" length="1340567" type="application/octet-stream" sparkle:dsaSignature="MC0CFH46P92raFS6OZYtCPlldOgGHzHLAhUAuI69NV6bVdNuaDI9xtwXhiK1mOs=" />
-		</item>
-		<item>
-			<title>Version 0.8</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Tue, 14 Dec 2011 19:49:15 +0000</pubDate>
-			<enclosure url="http://shared.opendns.com/dnscrypt/packages/osx-client/dnscrypt-osx-client-0.8.zip" sparkle:version="0.8" length="2603370" type="application/octet-stream" sparkle:dsaSignature="MC0CFDmV+2qQjDFdJMHSF6Mo+JcNqym4AhUAwmtVt2TRwBj2Ev326lnlqBNNm9g=" />
-		</item>
-		<item>
-			<title>Version 0.10</title>
-			<sparkle:releaseNotesLink>http://dnscrypt.opendns.com/releasenotes.php</sparkle:releaseNotesLink>
-			<pubDate>Mon, 13 Jan 2012 00:49:07 +0000</pubDate>
-			<enclosure url="http://shared.opendns.com/dnscrypt/packages/osx-client/dnscrypt-osx-client-0.10.zip" sparkle:version="0.10" length="2620869" type="application/octet-stream" sparkle:dsaSignature="MC4CFQClQNS8vihsJ2dpklwM0r9elx+JVwIVAJRtTONGSzWu2KmMBLIAEptUeFqv" />
+			<title>Version 0.17</title>
+			<sparkle:releaseNotes>http://download.dnscrypt.org/osx/opendns/release-notes.html</sparkle:releaseNotesLink>
+			<pubDate>Fri, 28 Jan 2012 04:38:42 +0000</pubDate>
+			<enclosure url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.17.zip" sparkle:version="0.17" length="1799052" type="application/octet-stream" sparkle:dsaSignature="MCwCFCEFWKGPZ8S9vrHTylQWNEglfGkzAhRP0yXotfZEFlLvnODpx+KIW6NHeQ==" />
 		</item>
 	</channel>
 </rss>
