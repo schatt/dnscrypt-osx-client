@@ -12,9 +12,9 @@
 			<pubDate>Fri, 28 Jan 2012 04:38:42 +0000</pubDate>
 			<enclosure
 url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.17.zip"
-sparkle:version="0.17" length="1799502"
+sparkle:version="0.17" length="1799571"
 type="application/octet-stream"
-sparkle:dsaSignature="MC4CFQDHri29QoNnMGyEgOY2YlGWI9/5dQIVALcsF7HTRRqV77n1WZmFJGoHew4t"
+sparkle:dsaSignature="MC0CFBknhrWScJcFnfVOLj1cqGkkHnFoAhUAvM/3RWmi2wkEOfitN84WZq6jtmE="
 />
 		</item>
 	</channel>
