@@ -6,27 +6,5 @@
 		<link>http://shared.opendns.com/upgrade/osx/dnscrypt-client/updater.xml</link>
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
-		<item>
-			<title>Version 0.18</title>
-			<sparkle:releaseNotesLink>http://download.dnscrypt.org/osx/opendns/releasenotes.html</sparkle:releaseNotesLink>
-			<pubDate>Wed, 03 Oct 2012 04:38:42 +0000</pubDate>
-			<enclosure
-url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.18.zip"
-sparkle:version="0.18" length="1800194"
-type="application/octet-stream"
-sparkle:dsaSignature="MC4CFQC94Nznwi/YKsUM8iWuGibgyxm+6QIVANMiPY4kl5n7IXg5lwKaH2WTovC+"
-/>
-		</item>
-		<item>
-			<title>Version 0.17</title>
-			<sparkle:releaseNotesLink>http://download.dnscrypt.org/osx/opendns/releasenotes.html</sparkle:releaseNotesLink>
-			<pubDate>Fri, 28 Sep 2012 04:38:42 +0000</pubDate>
-			<enclosure
-url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.17.zip"
-sparkle:version="0.17" length="1799571"
-type="application/octet-stream"
-sparkle:dsaSignature="MC0CFBknhrWScJcFnfVOLj1cqGkkHnFoAhUAvM/3RWmi2wkEOfitN84WZq6jtmE="
-/>
-		</item>
 	</channel>
 </rss>
