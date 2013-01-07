@@ -8,10 +8,10 @@
 		<language>en</language>
 		<item>
 			<title>Version 0.19</title>
-			<sparkle:releaseNotesLink>http://download.dnscrypt.org/osx/opendns/releasenotes.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>http://download.dnscrypt.org/guis/opendns/osx/releasenotes.html</sparkle:releaseNotesLink>
 			<pubDate>Fri, 12 Oct 2012 20:34:11 +0000</pubDate>
 			<enclosure
-url="http://download.dnscrypt.org/osx/opendns/dnscrypt-osx-client-0.19.zip"
+url="http://download.dnscrypt.org/guis/opendns/osx/.updates/dnscrypt-osx-client-0.19.zip"
 sparkle:version="0.19" length="1768005"
 type="application/octet-stream"
 sparkle:dsaSignature="MC0CFQDbyaiVY+kEmTTx4s42vCWVTzpTOgIUAvR+vrQWgaejnjHZq7EZv/+FVdw="
